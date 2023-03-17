@@ -6,13 +6,8 @@
 
 
 ## 기술스택
-### V1
 - CPP
 - WinAPI
-
-### V2
-- Rust
-- Bevy engine
 
 # License
 MIT license
